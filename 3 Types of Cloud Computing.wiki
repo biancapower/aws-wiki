@@ -1,0 +1,7 @@
+= 3 Types of Cloud Computing =
+
+[[IaaS]]
+
+[[PaaS]]
+
+[[SaaS]]

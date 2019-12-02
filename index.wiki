@@ -1,3 +1,361 @@
 = AWS Cloud Practitioner =
 
 [[AWS]]
+
+[[EC2]]
+
+[[EC2 Container Service]]
+
+Elastic Beanstalk
+
+Lambda
+
+Lightsail
+
+S3
+
+Glacier
+
+EFS
+
+Storage Gateway
+
+Snowball
+
+Snowball Edge
+
+DMS
+
+SMS
+
+Athena
+
+EMR
+
+Cloud Search
+
+Elastic Search
+
+Kinesis
+
+Quicksight
+
+Data Pipeline
+
+IAM
+
+Inspector
+
+Certificate Manager
+
+Directory Service
+
+WAF
+
+Artifacts
+
+CloudWatch
+
+CloudFormation
+
+CloudTrail
+
+Opworks
+
+Config
+
+Service Catalog
+
+Trusted Advisor
+
+Step Functions
+
+SWF
+
+API Gateway
+
+App Stream
+
+Elastic Transcoder
+
+Code Commit
+
+Code Build
+
+Code Deploy
+
+Code Pipeline
+
+Workspaces
+
+SNS
+
+SQS
+
+SES
+
+RDS
+
+DynamoDB
+
+Redshift
+
+Elasticache
+
+[[IaaS]]
+
+[[PaaS]]
+
+[[SaaS]]
+
+3 Types of Cloud Computing Deployments
+
+6 Advantages of Cloud
+
+[[3 Types of Cloud Computing]]
+
+Support Plans
+
+RDP
+
+Billing Alarm
+
+Root Account
+
+MFA
+
+S3
+
+6 Storage Classes
+
+Cross Region Replication
+
+Edge Location
+
+Amazon Backbone Network
+
+S3 Transfer Acceleration
+
+Region
+
+Bucket Policies
+
+Object Policies
+
+IAM Policies
+
+User Groups
+
+CloudFront
+
+CDN
+
+Origin
+
+Distribution
+
+TTL
+
+Web Distribution
+
+RTMP
+
+On Demand Pricing
+
+Reserved Pricing
+
+Spot Pricing
+
+Dedicated Hosts Pricing
+
+EC2 Pricing Models
+
+Standard Reserved Instances
+
+Convertible Reserved Instances
+
+Scheduled Reserved Instances
+
+EC2 Instance Types
+
+EBS
+
+General Purpose SSD (GP2)
+
+Provisioned IOPS SSD (IO1)
+
+Throughput Optimised HDD (ST1)
+
+Cold HDD (SC1)
+
+Magnetic
+
+Common Ports
+
+Serverless
+
+Private and Public Keys
+
+Security Group
+
+Roles
+
+Load Balancers
+
+Application Load Balancers
+
+Network Load Balancers
+
+Classic Load Balancers
+
+RDS
+
+Multi-AZ
+
+Read Replicas
+
+Dynamo DB
+
+OLTP
+
+OLAP
+
+Data Warehousing
+
+Redshift
+
+ElastiCache
+
+Route 53
+
+AWS Compute Services
+
+Cloud Computing
+
+Scalability
+
+Stateless
+
+Stateful
+
+Infrastructure as Code
+
+Automation
+
+Serverless Management and Deployment
+
+Infrastructure Management and Deployment
+
+Auto Scaling
+
+AWS Systems Manager
+
+CloudWatch Alarms
+
+CloudWatch Events
+
+Loose Coupling
+
+Distributed Systems
+
+Graceful Failure
+
+Managed Services
+
+Cloud Search
+
+Amazon Elastic Search
+
+Graph Database
+
+Amazon Neptune
+
+Caching
+
+Shared Responsibility Model
+
+Global AWS Services
+
+On Premise AWS Services
+
+Storage Gateway
+
+CodeDeploy
+
+Opsworks
+
+IoT Greengrass
+
+Autoscaling Groups
+
+EC2 Fleet
+
+S3 Consistency Model
+
+Pricing Philosophy
+
+Capex vs Opex
+
+Pricing Policies
+
+Fundamentals of Pricing
+
+Free Tier
+
+EC2 Pricing
+
+Lambda Pricing
+
+EBS Pricing
+
+S3 Pricing
+
+Glacier Pricing
+
+Snowball Pricing
+
+RDS Pricing
+
+DynamoDB Pricing
+
+CloudFront Pricing
+
+AWS Budgets
+
+AWS Cost Explorer
+
+TAM
+
+Tags
+
+Resource Groups
+
+Tag Editor
+
+AWS Organizations
+
+OU
+
+Consolidated Billing
+
+AWS Quick Start
+
+AWS Landing Zone
+
+AWS Calculators
+
+AWS Simple Monthly Calculator
+
+AWS Total Cost of Ownership Calculator
+
+AWS Artifact
+
+AWS Shield
+
+AWS Inspector
+
+AWS Trusted Advisor
+
+Macie
+
+PCI-DSS Compliance
